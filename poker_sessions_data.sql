@@ -1400,9 +1400,9 @@ insert into poker_sessions (
 )
 values ('2011-01-26',983623,34354,1017977,40000,0,59);
 insert into poker_sessions (
-  poker_session_date,starting_amount,delta,ending_amount,poker_flavor,num_hands,big_blind_amount
+  poker_session_date,starting_amount,delta,ending_amount,initial_stake_max,poker_flavor,num_hands
 )
-values ('2011-01-27',1017977,-370,1017607,1,87,20);
+values ('2011-01-27',1017977,-370,1017607,4000,1,87);
 insert into poker_sessions (
   poker_session_date,starting_amount,delta,ending_amount,initial_stake_max,poker_flavor,num_hands
 )
@@ -2791,4 +2791,112 @@ insert into poker_sessions (
   poker_session_date,starting_amount,delta,ending_amount,initial_stake_max,poker_flavor,num_hands
 )
 values ('2012-05-22',4596494,50858,4647352,40000,3,77);
+insert into poker_sessions (
+  poker_session_date,starting_amount,delta,ending_amount,initial_stake_max,poker_flavor,num_hands
+)
+values ('2012-05-23',4647352,-40000,4607352,40000,3,59);
+insert into poker_sessions (
+  poker_session_date,starting_amount,delta,ending_amount,initial_stake_max,poker_flavor,num_hands
+)
+values ('2012-05-24',4607352,24700,4632052,40000,3,81);
+insert into poker_sessions (
+  poker_session_date,starting_amount,delta,ending_amount,initial_stake_max,poker_flavor,num_hands
+)
+values ('2012-05-25',4632052,52000,4684052,40000,3,6);
+insert into poker_sessions (
+  poker_session_date,starting_amount,delta,ending_amount,initial_stake_max,poker_flavor,num_hands
+)
+values ('2012-05-26',4684052,-80000,4604052,40000,3,88);
+insert into poker_sessions (
+  poker_session_date,starting_amount,delta,ending_amount,initial_stake_max,poker_flavor,num_hands
+)
+values ('2012-05-27',4604052,31000,4635052,40000,3,65);
+insert into poker_sessions (
+  poker_session_date,starting_amount,delta,ending_amount,initial_stake_max,poker_flavor,num_hands
+)
+values ('2012-05-28',4635052,23900,4658952,40000,3,35);
+insert into poker_sessions (
+  poker_session_date,starting_amount,delta,ending_amount,initial_stake_max,poker_flavor,num_hands
+)
+values ('2012-05-29',4658952,51100,4710052,40000,3,69);
+insert into poker_sessions (
+  poker_session_date,starting_amount,delta,ending_amount,initial_stake_max,poker_flavor,num_hands
+)
+values ('2012-05-30',4710052,-40000,4670052,40000,3,51);
+insert into poker_sessions (
+  poker_session_date,starting_amount,delta,ending_amount,initial_stake_max,poker_flavor,num_hands
+)
+values ('2012-06-02',4670052,-40000,4630052,40000,3,121);
+insert into poker_sessions (
+  poker_session_date,starting_amount,delta,ending_amount,initial_stake_max,poker_flavor,num_hands
+)
+values ('2012-06-03',4630052,-24450,4605602,40000,3,105);
+insert into poker_sessions (
+  poker_session_date,starting_amount,delta,ending_amount,initial_stake_max,poker_flavor,num_hands
+)
+values ('2012-06-04',4605602,-40000,4565602,40000,3,130);
+insert into poker_sessions (
+  poker_session_date,starting_amount,delta,ending_amount,initial_stake_max,poker_flavor,num_hands
+)
+values ('2012-06-05',4565602,20000,4585602,40000,3,17);
+insert into poker_sessions (
+  poker_session_date,starting_amount,delta,ending_amount,initial_stake_max,poker_flavor,num_hands
+)
+values ('2012-06-06',4585602,30200,4615802,40000,3,113);
+insert into poker_sessions (
+  poker_session_date,starting_amount,delta,ending_amount,initial_stake_max,poker_flavor,num_hands
+)
+values ('2012-06-07',4615802,-40000,4575802,40000,3,40);
+insert into poker_sessions (
+  poker_session_date,starting_amount,delta,ending_amount,initial_stake_max,poker_flavor,num_hands
+)
+values ('2012-06-08',4575802,21300,4597102,40000,3,72);
+insert into poker_sessions (
+  poker_session_date,starting_amount,delta,ending_amount,initial_stake_max,poker_flavor,num_hands
+)
+values ('2012-06-09',4597102,72914,4670016,40000,3,126);
+insert into poker_sessions (
+  poker_session_date,starting_amount,delta,ending_amount,initial_stake_max,poker_flavor,num_hands
+)
+values ('2012-06-11',4670016,-31354,4638662,40000,3,101);
+insert into poker_sessions (
+  poker_session_date,starting_amount,delta,ending_amount,initial_stake_max,poker_flavor,num_hands
+)
+values ('2012-06-12',4638662,-40000,4598662,40000,3,58);
+insert into poker_sessions (
+  poker_session_date,starting_amount,delta,ending_amount,initial_stake_max,poker_flavor,num_hands
+)
+values ('2012-06-13',4598662,2050,4600712,40000,3,108);
+insert into poker_sessions (
+  poker_session_date,starting_amount,delta,ending_amount,initial_stake_max,poker_flavor,num_hands
+)
+values ('2012-06-14',4600712,-40000,4560712,40000,3,67);
+insert into poker_sessions (
+  poker_session_date,starting_amount,delta,ending_amount,initial_stake_max,poker_flavor,num_hands
+)
+values ('2012-06-15',4560712,500,4561212,40000,3,66);
+insert into poker_sessions (
+  poker_session_date,starting_amount,delta,ending_amount,initial_stake_max,poker_flavor,num_hands
+)
+values ('2012-06-16',4561212,22172,4583384,40000,3,76);
+insert into poker_sessions (
+  poker_session_date,starting_amount,delta,ending_amount,initial_stake_max,poker_flavor,num_hands
+)
+values ('2012-06-18',4583384,32300,4615684,40000,3,47);
+insert into poker_sessions (
+  poker_session_date,starting_amount,delta,ending_amount,initial_stake_max,poker_flavor,num_hands
+)
+values ('2012-06-19',4615684,-40000,4575684,40000,3,192);
+insert into poker_sessions (
+  poker_session_date,starting_amount,delta,ending_amount,initial_stake_max,poker_flavor,num_hands
+)
+values ('2012-06-20',4575684,10250,4585934,40000,3,74);
+insert into poker_sessions (
+  poker_session_date,starting_amount,delta,ending_amount,initial_stake_max,poker_flavor,num_hands
+)
+values ('2012-06-21',4585934,-80000,4505934,40000,3,40);
+insert into poker_sessions (
+  poker_session_date,starting_amount,delta,ending_amount,initial_stake_max,poker_flavor,num_hands
+)
+values ('2012-06-23',4505934,58644,4564578,40000,3,60);
 quit
