@@ -1,7 +1,7 @@
 use poker;
 
 update poker_sessions
-set big_blind_amount = initial_stake_max / 200
-where initial_stake_max is not null;
+set big_blind_amount = initial_stake / 200
+where initial_stake is not null and big_blind_amount is null;
 
 quit
