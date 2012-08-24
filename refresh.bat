@@ -14,6 +14,7 @@ mysql_grab flavor_stake
 mysql_grab flavor_stake2
 mysql_grab avg_delta_by_flavor2
 mysql_grab counts
+mysql_grab counts_tournament
 mysql_grab nolimit_holdem_counts
 mysql_grab nolimit_holdem_delta
 mysql_grab last_session
@@ -26,4 +27,6 @@ mysql_grab sit_and_go3
 mysql_grab sit_and_go_balance2
 mysql_grab sit_and_go_balance3
 mysql_grab sit_and_go_balance4
+mysql_grab delta_non_tournament
+mysql_grab delta_tournament
 mysql_grab balance
