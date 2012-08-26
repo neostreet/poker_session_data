@@ -6,7 +6,6 @@ create table poker_sessions (
   id mediumint auto_increment primary key,
   poker_session_date date not null,
   delta int not null,
-  ending_amount int null,
   initial_stake int not null,
   poker_flavor int not null,
   num_hands int null,
@@ -15,8 +14,8 @@ create table poker_sessions (
   buy_in int null,
   entry_fee int null,
   num_players int null,
-  place int not null,
-  winnings int not null
+  place int null,
+  winnings int null
 );
 
 quit
