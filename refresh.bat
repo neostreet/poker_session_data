@@ -28,5 +28,6 @@ mysql_grab sit_and_go_balance2
 mysql_grab sit_and_go_balance3
 mysql_grab sit_and_go_balance4
 mysql_grab delta_non_tournament
+mysql_grab delta_tournament00
 mysql_grab delta_tournament
 mysql_grab balance
