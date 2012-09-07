@@ -3,6 +3,7 @@ call load_sessions
 mysql_grab delta
 mysql_grab delta2
 mysql_grab delta6
+mysql_grab delta6_summary
 mysql_grab sum_delta
 mysql_grab max_delta
 mysql_grab avg_delta
@@ -24,6 +25,7 @@ mysql_grab num_hands13
 mysql_grab sit_and_go_delta
 mysql_grab sit_and_go2
 mysql_grab sit_and_go3
+mysql_grab sit_and_go3b
 mysql_grab sit_and_go_balance2
 mysql_grab sit_and_go_balance3
 mysql_grab sit_and_go_balance4
@@ -31,4 +33,5 @@ mysql_grab delta_non_tournament
 mysql_grab delta_tournament00
 mysql_grab delta_tournament
 mysql_grab delta_tournament0
+mysql_grab places
 mysql_grab balance
