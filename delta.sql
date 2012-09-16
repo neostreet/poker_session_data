@@ -1,8 +1,7 @@
 use poker
 
-select sum(delta)
+select delta
 from poker_sessions
-group by poker_session_date
-order by poker_session_date;
+order by id;
 
 quit
