@@ -3,6 +3,7 @@ call load_sessions
 mysql_grab delta
 mysql_grab delta2
 mysql_grab delta6
+mysql_grab delta_summary
 mysql_grab delta6_summary
 mysql_grab sum_delta
 mysql_grab max_delta
@@ -15,6 +16,7 @@ mysql_grab flavor_stake
 mysql_grab flavor_stake2
 mysql_grab avg_delta_by_flavor2
 mysql_grab counts
+mysql_grab counts2
 mysql_grab counts_tournament
 mysql_grab nolimit_holdem_counts
 mysql_grab nolimit_holdem_delta
