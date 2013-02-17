@@ -56,4 +56,31 @@ values (
   'No Limit Triple Draw 2-7 Lowball'
 );
 
+insert into poker_flavors (
+  poker_flavor,
+  poker_flavor_descr
+)
+values (
+  6,
+  'Pot Limit Triple Draw 2-7 Lowball'
+);
+
+insert into poker_flavors (
+  poker_flavor,
+  poker_flavor_descr
+)
+values (
+  7,
+  'Limit Hold''em'
+);
+
+insert into poker_flavors (
+  poker_flavor,
+  poker_flavor_descr
+)
+values (
+  8,
+  'Limit Triple Draw 2-7 Lowball'
+);
+
 quit

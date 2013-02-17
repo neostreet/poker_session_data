@@ -1,8 +1,9 @@
 use poker
 
-select sum(winnings)
-from sit_and_go
-group by sit_and_go_date
-order by sit_and_go_date;
+select poker_session_date,sum(winnings)
+from poker_sessions
+where sit_and_go = 1
+group by poker_session_date
+order by poker_session_date;
 
 quit

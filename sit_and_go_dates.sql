@@ -1,7 +1,8 @@
 use poker
 
-select sit_and_go_date
-from sit_and_go
+select poker_session_date
+from poker_sessions
+where sit_and_go = 1
 order by id;
 
 quit
