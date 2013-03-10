@@ -4807,4 +4807,80 @@ insert into poker_sessions (
   poker_session_date,delta,initial_stake,poker_flavor,num_hands
 )
 values ('2013-02-15',-2106,40000,3,117);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_hands
+)
+values ('2013-02-17',10491,40000,3,31);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_hands
+)
+values ('2013-02-18',-40000,40000,3,59);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_hands
+)
+values ('2013-02-19',8452,40000,3,39);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_hands
+)
+values ('2013-02-20',8060,40000,3,48);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_hands
+)
+values ('2013-02-21',8047,40000,3,49);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_hands
+)
+values ('2013-02-22',-17344,40000,3,100);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_hands
+)
+values ('2013-02-23',45799,40000,3,24);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_hands
+)
+values ('2013-02-25',22122,40000,3,33);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_hands
+)
+values ('2013-02-26',25787,40000,3,92);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_hands
+)
+values ('2013-02-27',38800,40000,3,9);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_hands
+)
+values ('2013-02-28',-29223,40000,3,96);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_hands
+)
+values ('2013-03-01',-71458,40000,3,86);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_hands
+)
+values ('2013-03-02',11997,40000,3,48);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_hands
+)
+values ('2013-03-03',140537,40000,3,5);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_hands
+)
+values ('2013-03-04',36459,40000,3,30);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_hands
+)
+values ('2013-03-05',-63561,40000,3,91);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_hands
+)
+values ('2013-03-06',9498,40000,3,36);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_hands
+)
+values ('2013-03-08',-7282,40000,3,104);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_hands
+)
+values ('2013-03-09',12572,40000,3,69);
 quit
