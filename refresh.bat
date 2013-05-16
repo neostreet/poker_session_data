@@ -3,13 +3,14 @@ call load_sessions
 mysql_grab session_dates
 mysql_grab delta
 mysql_grab delta_gain_loss
+mysql_grab delta_gain_loss_cash_game_nolimit_holdem
 mysql_grab delta2
 mysql_grab delta6
 mysql_grab delta_summary
-mysql_grab delta_summary_cash_game_nolimit_holdem
+mysql_grab delta_cash_game_nolimit_holdem
 mysql_grab delta6_summary
 mysql_grab delta6_non_tournament
-mysql_grab delta6_summary_cash_game_nolimit_holdem
+mysql_grab delta6_cash_game_nolimit_holdem
 mysql_grab sum_delta
 mysql_grab max_delta
 mysql_grab avg_delta
@@ -24,6 +25,7 @@ mysql_grab counts
 mysql_grab counts2
 mysql_grab counts_non_tournament
 mysql_grab nolimit_holdem_counts
+mysql_grab cash_game_nolimit_holdem_counts
 mysql_grab nolimit_holdem_delta
 mysql_grab last_session
 mysql_grab session_pct
