@@ -15,7 +15,11 @@ create table poker_sessions (
   entry_fee int null,
   num_players int null,
   place int null,
-  winnings int null
+  winnings int null,
+  num_flops_seen int null,
+  num_showdowns int null,
+  pots_won_at_showdown int null,
+  pots_won_without_showdown int null
 );
 
 quit

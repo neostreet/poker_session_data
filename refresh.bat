@@ -9,7 +9,7 @@ mysql_grab delta6
 mysql_grab delta_summary
 mysql_grab delta_cash_game_nolimit_holdem
 mysql_grab delta6_summary
-mysql_grab delta6_non_tournament
+mysql_grab delta6_summary_non_tournament
 mysql_grab delta6_cash_game_nolimit_holdem
 mysql_grab sum_delta
 mysql_grab max_delta
@@ -41,7 +41,7 @@ mysql_grab sit_and_go3b
 mysql_grab sit_and_go_balance2
 mysql_grab sit_and_go_balance3
 mysql_grab sit_and_go_balance4
-mysql_grab delta_non_tournament
-mysql_grab delta_non_tournament0
+mysql_grab delta_summary_non_tournament
+mysql_grab delta_summary_non_tournament0
 mysql_grab balance
 mysql_grab cash_game_nolimit_holdem_balance
