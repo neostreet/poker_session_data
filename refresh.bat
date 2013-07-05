@@ -11,6 +11,7 @@ mysql_grab delta_cash_game_nolimit_holdem
 mysql_grab delta6_summary
 mysql_grab delta6_summary_non_tournament
 mysql_grab delta6_cash_game_nolimit_holdem
+mysql_grab delta6_cash_game_plo
 mysql_grab sum_delta
 mysql_grab sum_delta_from_20111012_cash_game_nolimit_holdem
 mysql_grab max_delta
