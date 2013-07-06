@@ -48,3 +48,4 @@ mysql_grab delta_summary_non_tournament
 mysql_grab delta_summary_non_tournament0
 mysql_grab balance
 mysql_grab cash_game_nolimit_holdem_balance
+mysql_grab cash_game_plo_balance
