@@ -37,6 +37,7 @@ mysql_grab num_hands13
 mysql_grab num_hands13_non_tournament
 mysql_grab num_hands_grand_total
 mysql_grab num_hands_from_20111012
+mysql_grab num_hands_per_session
 mysql_grab sit_and_go_delta
 mysql_grab sit_and_go0
 mysql_grab sit_and_go2
