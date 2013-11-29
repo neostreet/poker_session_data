@@ -53,3 +53,4 @@ mysql_grab cash_game_nolimit_holdem_balance
 mysql_grab cash_game_plo_balance
 mysql_grab first_and_last_cash_game_nolimit_holdem_dates
 mysql_grab sum_delta_by_flavor_etc
+mysql_grab sum_num_hands_from_20111012_cash_game_nolimit_holdem

@@ -2992,157 +2992,157 @@ insert into poker_sessions (
 )
 values (1,'2012-07-15',300,20,1500,20,6,8,68,1,1170);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-15',50000,800,1500,20,9,7,37,6,0);
+values (1,'2012-07-15',50000,800,1500,20,9,7,37,17,4,1,0,6,0);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-15',80000,1000,1000,20,6,3,80,1,312000);
+values (1,'2012-07-15',80000,1000,1000,20,6,3,80,44,11,8,25,1,312000);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-16',80000,1000,1000,20,6,3,51,2,168000);
+values (1,'2012-07-16',80000,1000,1000,20,6,3,51,40,10,4,18,2,168000);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-16',80000,1000,1000,20,6,3,57,1,312000);
+values (1,'2012-07-16',80000,1000,1000,20,6,3,57,31,15,8,11,1,312000);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-16',80000,1000,1000,20,6,3,33,1,312000);
+values (1,'2012-07-16',80000,1000,1000,20,6,3,33,25,9,8,8,1,312000);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-16',80000,1000,1000,20,6,3,29,4,0);
+values (1,'2012-07-16',80000,1000,1000,20,6,3,29,17,5,3,5,4,0);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-17',80000,1000,1000,20,6,3,22,6,0);
+values (1,'2012-07-17',80000,1000,1000,20,6,3,22,11,3,0,1,6,0);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-17',80000,1000,1000,20,6,3,34,4,0);
+values (1,'2012-07-17',80000,1000,1000,20,6,3,34,17,3,1,4,4,0);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-17',80000,1000,1000,20,6,3,36,3,0);
+values (1,'2012-07-17',80000,1000,1000,20,6,3,36,22,5,3,6,3,0);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-18',80000,1000,1000,20,6,3,32,3,0);
+values (1,'2012-07-18',80000,1000,1000,20,6,3,32,18,6,3,6,3,0);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-18',50000,800,1000,20,6,3,48,3,0);
+values (1,'2012-07-18',50000,800,1000,20,6,3,48,22,6,2,8,3,0);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-19',80000,1000,1000,20,6,3,22,6,0);
+values (1,'2012-07-19',80000,1000,1000,20,6,3,22,11,4,1,1,6,0);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-19',80000,1000,1000,20,6,3,78,2,168000);
+values (1,'2012-07-19',80000,1000,1000,20,6,3,78,52,10,3,26,2,168000);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-19',80000,1000,1000,20,6,3,52,4,0);
+values (1,'2012-07-19',80000,1000,1000,20,6,3,52,17,9,3,5,4,0);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-19',80000,1000,1000,20,6,3,56,3,0);
+values (1,'2012-07-19',80000,1000,1000,20,6,3,56,30,7,4,11,3,0);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-20',80000,1000,1000,20,6,3,84,2,168000);
+values (1,'2012-07-20',80000,1000,1000,20,6,3,84,54,20,11,15,2,168000);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-20',80000,1000,1000,20,6,3,19,4,0);
+values (1,'2012-07-20',80000,1000,1000,20,6,3,19,7,4,2,1,4,0);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-20',80000,1000,1000,20,6,3,48,4,0);
+values (1,'2012-07-20',80000,1000,1000,20,6,3,48,17,4,2,6,4,0);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-20',80000,1000,1000,20,6,3,9,6,0);
+values (1,'2012-07-20',80000,1000,1000,20,6,3,9,5,1,0,0,6,0);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-20',80000,1000,1000,20,6,3,68,2,168000);
+values (1,'2012-07-20',80000,1000,1000,20,6,3,68,37,13,9,24,2,168000);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-20',80000,1000,1000,20,6,3,4,5,0);
+values (1,'2012-07-20',80000,1000,1000,20,6,3,4,3,2,0,1,5,0);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-20',80000,1000,1000,20,6,3,9,6,0);
+values (1,'2012-07-20',80000,1000,1000,20,6,3,9,6,2,0,0,6,0);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-20',80000,1000,1000,20,6,3,70,2,168000);
+values (1,'2012-07-20',80000,1000,1000,20,6,3,70,40,12,9,19,2,168000);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-20',80000,1000,1000,20,6,3,31,5,0);
+values (1,'2012-07-20',80000,1000,1000,20,6,3,31,18,7,2,6,5,0);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-20',200000,1500,1000,20,6,3,74,1,780000);
+values (1,'2012-07-20',200000,1500,1000,20,6,3,74,32,7,5,29,1,780000);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-21',80000,1000,1000,20,6,3,52,2,168000);
+values (1,'2012-07-21',80000,1000,1000,20,6,3,52,36,7,4,18,2,168000);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-21',80000,1000,1000,20,6,3,13,6,0);
+values (1,'2012-07-21',80000,1000,1000,20,6,3,13,8,2,0,0,6,0);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-21',80000,1000,1000,20,6,3,16,4,0);
+values (1,'2012-07-21',80000,1000,1000,20,6,3,16,13,2,0,3,4,0);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-21',80000,1000,1000,20,6,3,31,4,0);
+values (1,'2012-07-21',80000,1000,1000,20,6,3,31,15,3,1,8,4,0);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-21',80000,1000,1000,20,6,3,7,6,0);
+values (1,'2012-07-21',80000,1000,1000,20,6,3,7,5,4,2,0,6,0);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-21',150000,1250,1000,50,6,3,23,4,0);
+values (1,'2012-07-21',150000,1250,1000,50,6,3,23,11,4,3,2,4,0);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-21',80000,1000,1000,20,6,3,94,2,168000);
+values (1,'2012-07-21',80000,1000,1000,20,6,3,94,50,17,8,41,2,168000);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-21',80000,1000,1000,20,6,3,90,3,0);
+values (1,'2012-07-21',80000,1000,1000,20,6,3,90,33,8,3,29,3,0);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-21',150000,1250,1000,20,6,3,47,2,315000);
+values (1,'2012-07-21',150000,1250,1000,20,6,3,47,30,10,4,14,2,315000);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-21',200000,1500,1000,20,6,3,51,4,0);
+values (1,'2012-07-21',200000,1500,1000,20,6,3,51,15,5,3,4,4,0);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-21',200000,1500,1000,20,6,3,2,4,0);
+values (1,'2012-07-21',200000,1500,1000,20,6,3,2,1,1,0,0,4,0);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-21',200000,1500,1000,20,6,3,8,6,0);
+values (1,'2012-07-21',200000,1500,1000,20,6,3,8,3,3,1,2,6,0);
 insert into poker_sessions (
-  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+  sit_and_go,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown,place,winnings
 )
-values (1,'2012-07-21',200000,1500,1000,20,6,3,22,4,0);
+values (1,'2012-07-21',200000,1500,1000,20,6,3,22,9,3,1,1,4,0);
 insert into poker_sessions (
   poker_session_date,delta,initial_stake,poker_flavor,num_players,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown
 )
@@ -5719,4 +5719,84 @@ insert into poker_sessions (
   poker_session_date,delta,initial_stake,poker_flavor,num_players,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown
 )
 values ('2013-10-20',43313,50000,3,9,100,60,15,8,5);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_players,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown
+)
+values ('2013-10-21',29224,50000,3,9,145,74,19,11,8);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_players,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown
+)
+values ('2013-10-22',427,50000,3,9,72,42,17,7,0);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_players,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown
+)
+values ('2013-10-25',31127,50000,3,9,76,49,12,8,6);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_players,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown
+)
+values ('2013-11-07',6428,50000,3,9,40,23,6,2,2);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_players,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown
+)
+values ('2013-11-08',-8293,50000,3,9,141,69,15,7,12);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_players,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown
+)
+values ('2013-11-09',13749,50000,3,9,102,56,16,8,8);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_players,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown
+)
+values ('2013-11-12',-35322,50000,3,9,82,48,6,3,5);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_players,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown
+)
+values ('2013-11-13',47048,50000,3,9,57,29,6,5,3);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_players,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown
+)
+values ('2013-11-14',-150000,50000,3,9,37,19,4,1,2);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_players,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown
+)
+values ('2013-11-15',57050,50000,3,9,27,11,3,3,1);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_players,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown
+)
+values ('2013-11-16',-24981,50000,3,9,102,58,12,4,7);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_players,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown
+)
+values ('2013-11-17',29459,50000,3,9,50,36,9,5,3);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_players,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown
+)
+values ('2013-11-19',-50000,50000,3,9,130,72,14,6,11);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_players,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown
+)
+values ('2013-11-20',-19778,50000,3,9,52,24,4,2,1);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_players,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown
+)
+values ('2013-11-21',-29333,50000,3,9,151,103,25,11,19);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_players,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown
+)
+values ('2013-11-22',86561,50000,3,9,42,21,3,2,1);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_players,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown
+)
+values ('2013-11-23',10020,50000,3,9,56,32,8,4,7);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_players,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown
+)
+values ('2013-11-26',-84635,50000,3,9,82,50,14,7,4);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_players,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown
+)
+values ('2013-11-27',5722,50000,3,9,97,49,14,6,1);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_players,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown
+)
+values ('2013-11-28',-143125,50000,3,9,193,122,31,13,16);
 quit
