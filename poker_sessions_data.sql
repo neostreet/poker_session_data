@@ -5799,4 +5799,32 @@ insert into poker_sessions (
   poker_session_date,delta,initial_stake,poker_flavor,num_players,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown
 )
 values ('2013-11-28',-143125,50000,3,9,193,122,31,13,16);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_players,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown
+)
+values ('2013-11-29',17690,50000,3,9,97,58,12,8,5);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_players,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown
+)
+values ('2013-12-01',-50000,50000,3,9,76,43,11,3,4);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_players,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown
+)
+values ('2013-12-02',71328,50000,3,9,67,41,9,7,7);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_players,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown
+)
+values ('2013-12-03',-50000,50000,3,9,73,45,12,4,12);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_players,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown
+)
+values ('2013-12-04',55750,50000,3,9,32,15,3,1,0);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_players,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown
+)
+values ('2013-12-05',-57386,50000,3,9,140,89,16,4,21);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_players,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown
+)
+values ('2013-12-06',-50000,50000,3,9,159,107,19,8,37);
 quit
