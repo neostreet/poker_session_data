@@ -10,5 +10,6 @@ call sortints_it fdeltt.out
 call sortints_it fdeltfn.out
 call sortabs_descending_verbose_it fdeltt.out
 call fstartbal0
+call fendbal0
 call runtot_int_ib_sae_it 50000 fdeltt.out
 call runtot_int_ib_sb_it 0 fdeltt.out
