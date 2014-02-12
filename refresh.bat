@@ -43,6 +43,7 @@ mysql_grab sit_and_go0
 mysql_grab sit_and_go2
 mysql_grab sit_and_go3
 mysql_grab sit_and_go3b
+mysql_grab sit_and_go_balance
 mysql_grab sit_and_go_balance2
 mysql_grab sit_and_go_balance3
 mysql_grab sit_and_go_balance4

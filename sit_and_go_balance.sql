@@ -1,6 +1,6 @@
 use poker
 
-select sum(winnings - buy_in - entry_fee)
+select sum(delta)
 from poker_sessions
 where sit_and_go = 1;
 
