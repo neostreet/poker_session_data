@@ -5,6 +5,7 @@ mysql_grab delta
 mysql_grab delta_gain_loss
 mysql_grab delta_gain_loss_cash_game_nolimit_holdem
 mysql_grab delta2
+mysql_grab delta2_summary
 mysql_grab delta6
 mysql_grab delta_summary
 mysql_grab delta_cash_game_nolimit_holdem
