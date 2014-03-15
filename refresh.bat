@@ -47,6 +47,7 @@ mysql_grab sit_and_go_balance
 mysql_grab sit_and_go_balance2
 mysql_grab sit_and_go_balance3
 mysql_grab sit_and_go_balance4
+mysql_grab sit_and_go_num_hands
 mysql_grab delta_summary_non_tournament
 mysql_grab delta_summary_non_tournament0
 mysql_grab balance
