@@ -83,4 +83,13 @@ values (
   'Limit Triple Draw 2-7 Lowball'
 );
 
+insert into poker_flavors (
+  poker_flavor,
+  poker_flavor_descr
+)
+values (
+  9,
+  '8-Game'
+);
+
 quit
