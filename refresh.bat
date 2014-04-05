@@ -60,3 +60,4 @@ mysql_grab sum_num_hands_from_20111012_cash_game_nolimit_holdem
 mysql_grab places
 mysql_grab place
 mysql_grab sit_and_go_wagered
+mysql_grab sit_and_go_flavors
