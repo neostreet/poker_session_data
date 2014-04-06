@@ -61,3 +61,4 @@ mysql_grab places
 mysql_grab place
 mysql_grab sit_and_go_wagered
 mysql_grab sit_and_go_flavors
+mysql_grab sit_and_go_dates
