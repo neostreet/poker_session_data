@@ -64,3 +64,4 @@ mysql_grab place_avg
 mysql_grab sit_and_go_wagered
 mysql_grab sit_and_go_flavors
 mysql_grab sit_and_go_dates
+mysql_grab 7_card_stud_balance
