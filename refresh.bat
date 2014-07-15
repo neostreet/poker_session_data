@@ -67,3 +67,4 @@ mysql_grab sit_and_go_flavors
 mysql_grab sit_and_go_dates
 mysql_grab 7_card_stud_balance
 mysql_grab 7_card_stud_counts
+mysql_grab 7_card_stud_deltas
