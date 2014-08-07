@@ -9,6 +9,7 @@ mysql_grab delta2_summary
 mysql_grab delta6
 mysql_grab delta_summary
 mysql_grab delta_cash_game_nolimit_holdem
+mysql_grab delta_cash_game_stud
 mysql_grab delta6_summary
 mysql_grab delta6_summary_non_tournament
 mysql_grab delta6_cash_game_nolimit_holdem

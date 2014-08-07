@@ -1,0 +1,3 @@
+@echo off
+call gen_ending_amount00_cash_game_stud
+call gen_ending_amount3_0_cash_game_stud
