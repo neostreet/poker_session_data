@@ -71,3 +71,4 @@ mysql_grab 7_card_stud_counts
 mysql_grab 7_card_stud_deltas
 mysql_grab 8-game_sit_and_gos
 mysql_grab 8-game_balance
+mysql_grab 8-game_places
