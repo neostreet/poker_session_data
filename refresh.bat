@@ -1,6 +1,7 @@
 @echo off
 call load_sessions
 mysql_grab session_dates
+mysql_grab num_distinct_poker_session_dates
 mysql_grab delta
 mysql_grab delta_gain_loss
 mysql_grab delta_gain_loss_cash_game_nolimit_holdem
@@ -16,6 +17,7 @@ mysql_grab delta6_cash_game_nolimit_holdem
 mysql_grab delta6_cash_game_7_card_stud
 mysql_grab delta6_from_20111012_cash_game_nolimit_holdem
 mysql_grab delta6_cash_game_plo
+mysql_grab delta6_8-game
 mysql_grab delta9_summary
 mysql_grab sum_delta
 mysql_grab sum_delta_from_20111012_cash_game_nolimit_holdem
