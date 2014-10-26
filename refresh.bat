@@ -2,6 +2,7 @@
 call load_sessions
 mysql_grab session_dates
 mysql_grab num_distinct_poker_session_dates
+mysql_grab num_distinct_cash_game_nolimit_holdem_dates
 mysql_grab delta
 mysql_grab delta_gain_loss
 mysql_grab delta_gain_loss_cash_game_nolimit_holdem
