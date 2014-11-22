@@ -18,3 +18,4 @@ call runtot_int_ib_sb_it 0 fdeltt.out
 call runtot_int_it fdeltt.out
 call underwater_count_it fdeltt.out.runtot_int
 call avgds0
+call fflop_stats_it hands.lst
