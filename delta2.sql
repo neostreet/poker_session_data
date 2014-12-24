@@ -1,6 +1,6 @@
 use poker
 
-select delta,poker_session_date,sit_and_go
+select delta,poker_session_date,poker_style
 from poker_sessions
 order by delta desc,id desc;
 

@@ -1,7 +1,7 @@
 use poker
 
 update poker_sessions
-set sit_and_go = 0
-where sit_and_go is null;
+set poker_style = 0
+where poker_style is null;
 
 quit

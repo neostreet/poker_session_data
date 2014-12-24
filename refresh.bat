@@ -77,3 +77,4 @@ mysql_grab 8-game_sit_and_gos
 mysql_grab 8-game_balance
 mysql_grab 8-game_places
 mysql_grab 8-game_dates
+mysql_grab mtt_balance

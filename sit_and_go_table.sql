@@ -1,10 +1,10 @@
 use poker
 
-drop table if exists sit_and_go;
+drop table if exists poker_style;
 
-create table sit_and_go (
+create table poker_style (
   id mediumint auto_increment primary key,
-  sit_and_go_date date not null,
+  poker_style_date date not null,
   buy_in int not null,
   entry_fee int not null,
   initial_stake int not null,

@@ -1,7 +1,7 @@
 use poker
 
 select winnings - buy_in - entry_fee
-from sit_and_go
+from poker_style
 order by id;
 
 quit

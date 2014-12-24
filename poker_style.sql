@@ -1,4 +1,4 @@
-use poker
+use poker;
 
 select poker_style,count(*)
 from poker_sessions

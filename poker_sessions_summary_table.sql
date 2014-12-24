@@ -7,7 +7,7 @@ create table poker_sessions_summary (
   poker_session_date date not null,
   delta int not null,
   num_hands int null,
-  sit_and_go int null
+  poker_style int null
 );
 
 quit

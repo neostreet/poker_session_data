@@ -1,18 +1,18 @@
 use poker
 
-select sum(num_hands)
+select sum(num_hands),count(*)
 from poker_sessions
-where sit_and_go = 0 and poker_flavor = 3 and num_hands is not null and
+where poker_style = 0 and poker_flavor = 3 and num_hands is not null and
 poker_session_date >= '2011-10-12';
 
-select count(*)
+select sum(num_hands),count(*)
 from poker_sessions
-where sit_and_go = 0 and poker_flavor = 3 and num_hands is not null and
+where (poker_style != 0 or poker_flavor != 3) and num_hands is not null and
 poker_session_date >= '2011-10-12';
 
-select count(*)
+select sum(num_hands),count(*)
 from poker_sessions
-where sit_and_go = 0 and poker_flavor = 3 and
+where num_hands is not null and
 poker_session_date >= '2011-10-12';
 
 select count(*)
