@@ -1,0 +1,3 @@
+@echo off
+call do_format_balances_7_card_stud
+notepad format_balances_7_card_stud.out

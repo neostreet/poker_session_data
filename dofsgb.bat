@@ -1,0 +1,3 @@
+@echo off
+call do_format_sit_and_go_balances
+notepad format_sit_and_go_balances.out
