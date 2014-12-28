@@ -18,7 +18,7 @@ mysql_grab delta6_cash_game_nolimit_holdem
 mysql_grab delta6_cash_game_7_card_stud
 mysql_grab delta6_from_20111012_cash_game_nolimit_holdem
 mysql_grab delta6_cash_game_plo
-mysql_grab delta6_8-game
+mysql_grab delta6_8game
 mysql_grab delta9_summary
 mysql_grab sum_delta
 mysql_grab sum_delta_from_20111012_cash_game_nolimit_holdem
@@ -73,8 +73,10 @@ mysql_grab sit_and_go_dates
 mysql_grab 7_card_stud_balance
 mysql_grab 7_card_stud_counts
 mysql_grab 7_card_stud_deltas
-mysql_grab 8-game_sit_and_gos
-mysql_grab 8-game_balance
-mysql_grab 8-game_places
-mysql_grab 8-game_dates
+mysql_grab 8game_sit_and_gos
+mysql_grab 8game_balance
+mysql_grab 8game_places
+mysql_grab 8game_dates
 mysql_grab mtt_balance
+mysql_grab mtt_8game_balance
+mysql_grab mtt_8game_detail
