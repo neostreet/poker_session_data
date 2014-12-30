@@ -11,3 +11,4 @@ call sortabs_descending_line_numbers_it sng_fdeltt.out
 call sng_fstartbal0
 call runtot_int_it sng_fdeltt.out
 call underwater_count_it sng_fdeltt.out.runtot_int
+call fdelta_sum_8game_it sng_hands.lst
