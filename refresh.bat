@@ -80,4 +80,4 @@ mysql_grab 8game_dates
 mysql_grab mtt_balance
 mysql_grab mtt_8game_balance
 mysql_grab mtt_8game_detail
-mysql_grab mtt_8game_counts
+mysql_grab mtt_8game_counts2
