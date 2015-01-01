@@ -13,6 +13,8 @@ create table poker_sessions (
   big_blind_amount int null,
   buy_in int null,
   entry_fee int null,
+  num_entries int null,
+  prize_pool int null,
   num_players int null,
   place int null,
   winnings int null,
