@@ -66,4 +66,5 @@ mysql_grab mtt_8game_money_places
 mysql_grab mtt_8game_counts2
 mysql_grab mtt_8game_num_hands
 mysql_grab mtt_final_table_detail
+mysql_grab style
 mysql_grab style_flavor
