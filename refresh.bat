@@ -68,3 +68,5 @@ mysql_grab mtt_8game_num_hands
 mysql_grab mtt_final_table_detail
 mysql_grab style
 mysql_grab style_flavor
+mysql_grab sit_and_go_balance
+mysql_grab places
