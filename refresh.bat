@@ -48,6 +48,7 @@ mysql_grab num_hands_per_session
 mysql_grab balance
 mysql_grab sum_delta_by_flavor_etc
 mysql_grab mtt_balance
+mysql_grab mtt_counts2
 mysql_grab 8game_balance
 mysql_grab sng_8game_dates
 mysql_grab sng_8game_balance
@@ -57,6 +58,7 @@ mysql_grab sng_8game_places
 mysql_grab sng_8game_money_places
 mysql_grab sng_8game_counts2
 mysql_grab sng_8game_num_hands
+mysql_grab sng_8game_total
 mysql_grab mtt_8game_dates
 mysql_grab mtt_8game_balance
 mysql_grab mtt_8game_detail
