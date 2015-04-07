@@ -92,4 +92,13 @@ values (
   '8-Game'
 );
 
+insert into poker_flavors (
+  poker_flavor,
+  poker_flavor_descr
+)
+values (
+  10,
+  'HORSE'
+);
+
 quit
