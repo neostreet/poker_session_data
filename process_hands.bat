@@ -16,7 +16,7 @@ call runtot_int_ib_sae_it 50000 fdeltt.out
 call runtot_int_ib_sae_it 0 fdeltt.out
 call runtot_int_ib_sb_it 0 fdeltt.out
 call runtot_int_it fdeltt.out
-call sortabs_descending_line_numbers_it fdeltt.out.runtot_int
+call sortints_descending_line_numbers_it fdeltt.out.runtot_int
 call addf_int_it fdeltt.out
 call underwater_count_it fdeltt.out.runtot_int
 call avgds0
