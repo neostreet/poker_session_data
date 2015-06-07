@@ -13,5 +13,6 @@ mysql_grab balance
 mysql_grab cash_game_nolimit_holdem_balance
 mysql_grab places
 mysql_grab sng_nlhe_places
+mysql_grab sng_nlhe_detail
 mysql_grab sng_wagered
 mysql_grab sng_nolimit_holdem_balance
