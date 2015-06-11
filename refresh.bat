@@ -15,4 +15,5 @@ mysql_grab places
 mysql_grab sng_nlhe_places
 mysql_grab sng_nlhe_detail
 mysql_grab sng_wagered
+mysql_grab sng_nlhe_wagered
 mysql_grab sng_nolimit_holdem_balance
