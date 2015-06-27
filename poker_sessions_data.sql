@@ -8803,4 +8803,64 @@ insert into poker_sessions (
   poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
 )
 values (1,'f','2015-06-18',90000,10000,1000,20,6,3,71,3,0);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+)
+values (1,'a','2015-06-19',90000,10000,1000,20,6,3,22,3,0);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+)
+values (2,'b','2015-06-19',4500,500,1500,20,6,9,40,75,0);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+)
+values (1,'c','2015-06-19',90000,10000,1000,20,6,3,31,5,0);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+)
+values (2,'d','2015-06-19',4500,500,1500,20,6,10,56,33,0);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries
+)
+values (2,'e','2015-06-19',4500,500,1500,20,6,9,189,3,47380,81);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+)
+values (1,'a','2015-06-20',90000,10000,1000,20,6,3,39,4,0);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+)
+values (2,'b','2015-06-20',4500,500,1500,20,6,9,51,46,0);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+)
+values (1,'c','2015-06-20',90000,10000,1000,20,6,3,25,4,0);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+)
+values (2,'d','2015-06-20',4500,500,1500,20,6,10,70,12,8160);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_players,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown
+)
+values ('2015-06-21',18892,50000,3,9,34,9,2,2,1);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_players,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown
+)
+values ('2015-06-22',78850,50000,3,9,91,30,8,5,2);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_players,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown
+)
+values ('2015-06-23',-50000,50000,3,9,111,58,19,7,5);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_players,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown
+)
+values ('2015-06-24',-2367,50000,3,9,149,74,22,12,11);
+insert into poker_sessions (
+  poker_session_date,delta,initial_stake,poker_flavor,num_players,num_hands,num_flops_seen,num_showdowns,pots_won_at_showdown,pots_won_without_showdown
+)
+values ('2015-06-25',28518,50000,3,9,109,49,13,5,4);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings
+)
+values (2,'a','2015-06-26',4500,500,1500,20,6,9,121,4,35570);
 quit
