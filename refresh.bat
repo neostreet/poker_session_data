@@ -7,14 +7,10 @@ mysql_grab delta2_summary
 mysql_grab delta6
 mysql_grab delta_summary
 mysql_grab delta6_summary
-mysql_grab delta6_summary_cash_game_nolimit_holdem
-mysql_grab delta6_summary_sng_nlhe
+mysql_grab delta6_summary_cash_game_nlhe
 mysql_grab avg_delta_by_flavor10
 call streak_it delta.out
 mysql_grab balance
-mysql_grab cash_game_nolimit_holdem_balance
-mysql_grab places
-mysql_grab sng_nlhe_counts2
-mysql_grab sng_nlhe_places
-mysql_grab sng_nlhe_detail
-mysql_grab sng_nlhe_balance
+mysql_grab cash_game_nlhe_counts
+mysql_grab cash_game_nlhe_detail
+mysql_grab cash_game_nlhe_balance
