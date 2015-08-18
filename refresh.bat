@@ -7,7 +7,7 @@ mysql_grab delta2_summary
 mysql_grab delta6
 mysql_grab delta_summary
 mysql_grab delta6_summary
-mysql_grab delta6_summary_cash_game_nlhe
+mysql_grab delta6_cash_game_nlhe
 mysql_grab avg_delta_by_flavor10
 call streak_it delta.out
 mysql_grab balance
