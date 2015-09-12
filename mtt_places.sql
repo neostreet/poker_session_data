@@ -1,8 +1,8 @@
 use poker
 
-select delta,place,poker_session_date,buy_in,entry_fee,poker_flavor
-from poker_sessions
-where poker_style = 2
-order by id;
+select s.winnings,place,s.poker_session_date,s.tournament_letter,s.buy_in,s.entry_fee,f.poker_flavor_descr
+from poker_sessions s,poker_flavors f
+where s.poker_style = 2 and s.poker_flavor = f.poker_flavor
+order by s.id;
 
 quit
