@@ -11,7 +11,6 @@ mysql_grab delta6_cash_game_nlhe
 mysql_grab avg_delta_by_flavor10
 call streak_it delta.out
 mysql_grab balance
-mysql_grab mtt_nlhe_counts2
-mysql_grab mtt_nlhe_detail
-mysql_grab mtt_nlhe_balance
-mysql_grab mtt_nlhe_places
+mysql_grab cash_game_nlhe_counts
+mysql_grab cash_game_nlhe_detail
+mysql_grab cash_game_nlhe_balance
