@@ -1,0 +1,14 @@
+@echo off
+split_hands mtt_nlhe_hands
+call in_chips_it mtt_nlhe_hands
+call delta_it mtt_nlhe_hands.neostreet.in_chips
+call mtt_nlhe_fhb0
+call mtt_nlhe_fhbc0
+call mtt_nlhe_fdeltt0
+call sortints_it mtt_nlhe_fdeltt.out
+call sortabs_descending_line_numbers_it mtt_nlhe_fdeltt.out
+call mtt_nlhe_fstartbal0
+call runtot_int_it mtt_nlhe_fdeltt.out
+call addf_int_it mtt_nlhe_fdeltt.out
+call underwater_count_it mtt_nlhe_fdeltt.out.runtot_int
+call fflop_stats_it mtt_nlhe_hands.lst
