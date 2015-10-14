@@ -29,4 +29,13 @@ values (
   'MTT'
 );
 
+insert into poker_styles (
+  poker_style,
+  poker_style_descr
+)
+values (
+  3,
+  'Spin & Go'
+);
+
 quit
