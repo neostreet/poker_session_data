@@ -1,0 +1,3 @@
+@echo off
+call do_format_sng_nolimit_holdem_balances
+notepad format_sng_nolimit_holdem_balances.out
