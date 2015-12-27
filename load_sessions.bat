@@ -5,6 +5,7 @@ rem call tomysql < update_ending_amount.sql
 call tomysql < update_big_blind_amount.sql
 call tomysql < update_tournament_deltas.sql
 call tomysql < update_prize_pool.sql
+call tomysql < update_num_entries_and_places_paid.sql
 call tomysql < poker_styles_table.sql
 call tomysql < poker_styles_data.sql
 call tomysql < poker_flavors_table.sql
