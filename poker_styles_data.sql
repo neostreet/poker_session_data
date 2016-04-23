@@ -38,4 +38,13 @@ values (
   'Spin & Go'
 );
 
+insert into poker_styles (
+  poker_style,
+  poker_style_descr
+)
+values (
+  4,
+  'KO poker'
+);
+
 quit
