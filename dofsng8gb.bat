@@ -1,0 +1,3 @@
+@echo off
+call do_format_sng_8game_balances
+notepad format_sng_8game_balances.out

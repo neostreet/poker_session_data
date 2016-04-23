@@ -1,0 +1,3 @@
+@echo off
+call do_format_spin_nlhe_balances
+notepad format_spin_nlhe_balances.out

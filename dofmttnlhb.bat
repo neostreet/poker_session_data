@@ -1,0 +1,3 @@
+@echo off
+call do_format_mtt_nlhe_balances
+notepad format_mtt_nlhe_balances.out
