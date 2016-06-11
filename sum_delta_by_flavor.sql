@@ -1,10 +1,9 @@
 use poker
 
-select s.poker_flavor,f.poker_flavor_descr,
-s.initial_stake,count(*),sum(s.delta),sum(s.delta) / count(*)
-from poker_sessions s,poker_flavors f
-where s.poker_flavor = f.poker_flavor
-group by s.poker_flavor,s.initial_stake
-order by s.poker_flavor,s.initial_stake;
+select sum(s.delta),sum(s.num_hands),count(*),fl.poker_flavor_descr
+from poker_sessions s,poker_flavors fl
+where s.poker_flavor = fl.poker_flavor
+group by s.poker_flavor
+order by sum(s.delta) desc,s.poker_flavor;
 
 quit
