@@ -19,3 +19,9 @@ mysql_grab sng_8game_places
 mysql_grab sng_8game_detail
 mysql_grab sng_8game_balance
 mysql_grab mtt_nlhe_balance
+mysql_grab mtt_nlhe_massive_balance
+mysql_grab sng_nlhe_counts2
+mysql_grab sng_nlhe_places0
+mysql_grab sng_nlhe_detail0
+mysql_grab sng_nlhe_balance0
+mysql_grab sng_nlhe_balance
