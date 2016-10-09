@@ -25,3 +25,4 @@ mysql_grab sng_nlhe_places0
 mysql_grab sng_nlhe_detail0
 mysql_grab sng_nlhe_balance0
 mysql_grab sng_nlhe_balance
+mysql_grab cash_game_nlhe_balance

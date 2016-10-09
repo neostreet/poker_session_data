@@ -1,8 +1,9 @@
 use poker;
 
-select sum(delta),count(*),sum(delta) / count(*),poker_style
-from poker_sessions
-group by poker_style
-order by poker_style;
+select sum(s.delta),count(*),sum(s.delta) / count(*),st.poker_style_descr
+from poker_sessions s,poker_styles st
+where s.poker_style = st.poker_style
+group by s.poker_style
+order by s.poker_style;
 
 quit

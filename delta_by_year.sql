@@ -5,7 +5,4 @@ from poker_sessions
 group by 3
 order by 3;
 
-select sum(delta),count(*)
-from poker_sessions;
-
 quit

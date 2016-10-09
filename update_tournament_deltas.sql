@@ -6,6 +6,6 @@ where poker_style not in (0,4);
 
 update poker_sessions
 set delta = winnings + bounties - buy_in - bounty - entry_fee
-where poker_style = 4;
+where bounty is not null;
 
 quit

@@ -26,7 +26,8 @@ create table poker_sessions (
   num_showdowns int null,
   pots_won_at_showdown int null,
   pots_won_without_showdown int null,
-  tournament_letter varchar(1) null
+  tournament_letter varchar(1) null,
+  sum_in_chips int null
 );
 
 quit
