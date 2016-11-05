@@ -1,0 +1,51 @@
+use wsop
+
+insert into main_event(year,country,winner) values (1970,'United States','Johnny Moss');
+insert into main_event(year,country,winner) values (1971,'United States','Johnny Moss');
+insert into main_event(year,country,winner) values (1972,'United States','Thomas "Amarillo Slim" Preston, Jr.');
+insert into main_event(year,country,winner) values (1973,'United States','Walter "Puggy" Pearson');
+insert into main_event(year,country,winner) values (1974,'United States','Johnny Moss');
+insert into main_event(year,country,winner) values (1975,'United States','Brian "Sailor" Roberts');
+insert into main_event(year,country,winner) values (1976,'United States','Doyle Brunson');
+insert into main_event(year,country,winner) values (1977,'United States','Doyle Brunson');
+insert into main_event(year,country,winner) values (1978,'United States','Bobby Baldwin');
+insert into main_event(year,country,winner) values (1979,'United States','Hal Fowler');
+insert into main_event(year,country,winner) values (1980,'United States','Stu Ungar');
+insert into main_event(year,country,winner) values (1981,'United States','Stu Ungar');
+insert into main_event(year,country,winner) values (1982,'United States','Jack Straus');
+insert into main_event(year,country,winner) values (1983,'United States','Tom McEvoy');
+insert into main_event(year,country,winner) values (1984,'United States','Jack Keller');
+insert into main_event(year,country,winner) values (1985,'United States','Bill Smith');
+insert into main_event(year,country,winner) values (1986,'United States','Berry Johnston');
+insert into main_event(year,country,winner) values (1987,'China','Johnny Chan');
+insert into main_event(year,country,winner) values (1988,'China','Johnny Chan');
+insert into main_event(year,country,winner) values (1989,'United States','Phil Hellmuth, Jr.');
+insert into main_event(year,country,winner) values (1990,'Iran','Mansour Matloubi');
+insert into main_event(year,country,winner) values (1991,'United States','Brad Daugherty');
+insert into main_event(year,country,winner) values (1992,'Iran','Hamid Dastmalchi');
+insert into main_event(year,country,winner) values (1993,'United States','Jim Bechtel');
+insert into main_event(year,country,winner) values (1994,'United States','Russ Hamilton');
+insert into main_event(year,country,winner) values (1995,'United States','Dan Harrington');
+insert into main_event(year,country,winner) values (1996,'United States','Huck Seed');
+insert into main_event(year,country,winner) values (1997,'United States','Stu Ungar');
+insert into main_event(year,country,winner) values (1998,'United States','Scotty Nguyen');
+insert into main_event(year,country,winner) values (1999,'Republic of Ireland','Noel Furlong');
+insert into main_event(year,country,winner) values (2000,'United States','Chris Ferguson');
+insert into main_event(year,country,winner) values (2001,'Spain','Juan Carlos Mortensen');
+insert into main_event(year,country,winner) values (2002,'United States','Robert Varkonyi');
+insert into main_event(year,country,winner) values (2003,'United States','Chris Moneymaker');
+insert into main_event(year,country,winner) values (2004,'United States','Greg Raymer');
+insert into main_event(year,country,winner) values (2005,'Australia','Joe Hachem');
+insert into main_event(year,country,winner) values (2006,'United States','Jamie Gold');
+insert into main_event(year,country,winner) values (2007,'United States','Jerry Yang');
+insert into main_event(year,country,winner) values (2008,'Denmark','Peter Eastgate');
+insert into main_event(year,country,winner) values (2009,'United States','Joe Cada');
+insert into main_event(year,country,winner) values (2010,'Canada','Jonathan Duhamel');
+insert into main_event(year,country,winner) values (2011,'Germany','Pius Heinz');
+insert into main_event(year,country,winner) values (2012,'United States','Greg Merson');
+insert into main_event(year,country,winner) values (2013,'United States','Ryan Riess');
+insert into main_event(year,country,winner) values (2014,'Sweden','Martin Jacobson');
+insert into main_event(year,country,winner) values (2015,'United States','Joe McKeehen');
+insert into main_event(year,country,winner) values (2016,'United States','Qui Nguyen');
+
+quit
