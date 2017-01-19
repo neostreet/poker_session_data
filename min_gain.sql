@@ -1,6 +1,6 @@
 use poker
 
-select poker_session_date,starting_amount,delta,ending_amount
+select poker_session_date,delta
 from poker_sessions
 where delta =
 (select min(delta) from poker_sessions

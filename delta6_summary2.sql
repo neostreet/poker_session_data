@@ -1,8 +1,8 @@
 use poker
 
-select poker_session_date,sum(delta)
+select sum(delta),poker_session_date
 from poker_sessions
 group by poker_session_date
-order by 2 desc,1 desc;
+order by poker_session_date;
 
 quit

@@ -1,13 +1,7 @@
 use poker
 
-select count(*) from poker_sessions
-where poker_style = 2 and
-winnings = 0;
-
-select count(*) from poker_sessions
-where poker_style = 2 and
-winnings > 0;
-
-select count(*) from poker_sessions
+select sum(winnings = 0),sum(winnings > 0),count(*)
+from poker_sessions
 where poker_style = 2;
+
 quit

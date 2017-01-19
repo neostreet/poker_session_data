@@ -14882,7 +14882,7 @@ values (2,'b','2016-10-26',16500,3500,1500,20,9,3,38,153,0,634,135);
 insert into poker_sessions (
   poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
 )
-values (2,'c','2016-10-26',17500,2500,1500,20,6,3,38,107,0,96,831);
+values (2,'c','2016-10-26',17500,2500,1500,20,6,3,38,107,0,381,96);
 insert into poker_sessions (
   poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
 )
@@ -15387,4 +15387,364 @@ insert into poker_sessions (
   poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
 )
 values (2,'c','2016-11-30',17500,2500,1500,20,6,3,85,67,35700,340,84);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2016-12-01',16500,3500,1500,20,9,3,11,0,0,382,81);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2016-12-01',17500,2500,1500,20,6,3,7,0,0,198,48);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'c','2016-12-01',18000,2000,1500,20,9,3,31,116,0,232,63);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'d','2016-12-01',16500,3500,1500,20,9,3,51,99,18400,508,108);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'e','2016-12-01',16500,3500,1500,20,9,3,65,51,24600,426,90);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2016-12-02',16500,3500,1500,20,9,3,58,52,31100,651,135);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2016-12-02',18000,2000,1500,20,9,3,95,10,85000,315,81);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'c','2016-12-02',16500,3500,1500,20,9,3,30,0,0,556,117);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'d','2016-12-02',18000,2000,1500,20,9,3,56,65,32000,274,72);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2016-12-03',18000,2000,1500,20,9,3,53,29,45000,239,63);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2016-12-04',18000,2000,1500,20,9,3,57,63,36000,272,72);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2016-12-04',18000,2000,1500,20,9,3,29,98,0,236,63);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2016-12-05',18000,2000,1500,20,9,3,50,94,0,283,72);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2016-12-05',17500,2500,1500,20,6,3,107,41,59900,408,96);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2016-12-08',17500,2500,1500,20,6,3,38,143,0,406,96);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2016-12-08',18000,2000,1500,20,9,3,26,84,0,239,63);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'c','2016-12-08',17500,2500,1500,20,6,3,124,18,83600,354,84);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2016-12-09',45000,5000,1500,20,6,3,34,0,0,123,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2016-12-09',45000,5000,1500,20,6,3,96,29,74000,110,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'c','2016-12-09',45000,5000,1500,20,6,3,187,2,489000,111,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2016-12-14',45000,5000,1500,20,6,3,103,30,72000,108,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2016-12-14',45000,5000,1500,20,6,3,76,22,0,84,21);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2016-12-15',45000,5000,1500,20,6,3,59,26,73000,109,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2016-12-15',45000,5000,1500,20,6,3,103,11,129000,90,21);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2016-12-16',45000,5000,1500,20,6,3,36,44,0,127,36);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2016-12-16',45000,5000,1500,20,6,3,40,0,0,69,18);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2016-12-20',45000,5000,1500,20,6,3,295,2,511000,116,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2016-12-21',17500,2500,1500,20,6,3,58,66,36900,352,84);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2016-12-22',45000,5000,1500,20,6,3,128,6,261000,114,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2016-12-23',45000,5000,1500,20,6,3,45,38,0,111,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2016-12-23',45000,5000,1500,20,6,3,77,13,113000,90,21);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,bounty,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_bounties,bounties
+)
+values (2,'a','2016-12-24',22000,22000,6000,1500,20,9,3,18,48,0,167,36,0,0);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2016-12-24',16500,3500,1500,20,9,3,3,0,0,445,90);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2016-12-25',45000,5000,1500,20,6,3,13,0,0,131,36);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,bounty,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_bounties,bounties
+)
+values (2,'b','2016-12-25',22000,22000,6000,1500,20,9,3,47,26,32100,195,45,6,132000);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'c','2016-12-25',45000,5000,1500,20,6,3,93,8,187000,119,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2016-12-27',17500,2500,1500,20,6,3,67,81,41900,521,132);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2016-12-27',17500,2500,1500,20,6,3,15,230,0,436,114);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'c','2016-12-27',45000,5000,1500,20,6,3,76,15,133000,124,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2016-12-28',45000,5000,1500,20,6,3,22,0,0,76,21);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2016-12-29',16500,3500,1500,20,9,3,46,59,33300,748,153);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2016-12-29',45000,5000,1500,20,6,3,38,30,81000,129,36);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'c','2016-12-29',16500,3500,1500,20,9,3,4,0,0,578,117);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'d','2016-12-29',45000,5000,1500,20,6,3,25,49,0,136,36);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'e','2016-12-29',17500,2500,1500,20,6,3,135,7,195500,447,114);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'f','2016-12-29',45000,5000,1500,20,6,3,44,37,0,108,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2016-12-30',45000,5000,1500,20,6,3,44,36,75000,139,36);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2016-12-30',17500,2500,1500,20,6,3,8,0,0,486,114);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'c','2016-12-30',45000,5000,1500,20,6,3,18,46,0,136,36);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'d','2016-12-30',17500,2500,1500,20,6,3,27,177,0,535,132);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'e','2016-12-30',17500,2500,1500,20,6,3,75,56,48000,436,114);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'f','2016-12-30',45000,5000,1500,20,6,3,27,36,0,109,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'g','2016-12-30',17500,2500,1500,20,6,3,50,93,26100,365,96);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2016-12-31',45000,5000,1500,20,6,3,11,69,0,154,42);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2016-12-31',45000,5000,1500,20,6,3,10,40,0,77,21);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'c','2016-12-31',44000,6000,1500,20,9,3,21,40,0,128,27);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'d','2016-12-31',16500,3500,1500,20,9,3,32,75,20600,448,90);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'e','2016-12-31',45000,5000,1500,20,6,3,38,19,0,61,18);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'f','2016-12-31',45000,5000,1500,20,6,3,33,0,0,45,12);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2017-01-01',45000,5000,1500,20,6,3,159,7,255000,162,42);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2017-01-02',45000,5000,1500,20,6,3,40,32,89000,165,42);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2017-01-02',17500,2500,1500,20,6,3,60,116,29200,540,132);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'c','2017-01-02',45000,5000,1500,20,6,3,30,45,0,147,36);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'d','2017-01-02',17500,2500,1500,20,6,3,95,39,59300,404,96);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2017-01-03',16500,3500,1500,20,9,3,6,415,0,809,162);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2017-01-03',45000,5000,1500,20,6,3,26,60,0,151,42);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'c','2017-01-03',17500,2500,1500,20,6,3,50,113,31900,507,132);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'d','2017-01-03',45000,5000,1500,20,6,3,81,10,153000,136,36);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'e','2017-01-03',17500,2500,1500,20,6,3,12,255,0,434,114);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2017-01-09',45000,5000,1500,20,6,3,81,14,148000,150,36);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2017-01-10',45000,5000,1500,20,6,3,18,59,0,120,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2017-01-10',17500,2500,1500,20,6,3,28,146,0,362,96);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2017-01-11',17500,2500,1500,20,6,3,2,0,0,300,72);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2017-01-11',45000,5000,1500,20,6,3,34,60,0,103,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2017-01-12',17500,2500,1500,20,6,3,30,231,0,441,114);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2017-01-12',45000,5000,1500,20,6,3,44,32,0,113,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2017-01-13',17500,2500,1500,20,6,3,37,178,0,518,132);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2017-01-13',45000,5000,1500,20,6,3,60,38,0,136,36);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'c','2017-01-13',45000,5000,1500,20,6,3,8,0,0,76,21);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'d','2017-01-13',16500,3500,1500,20,9,3,9,203,0,604,126);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'e','2017-01-13',17500,2500,1500,20,6,3,42,159,0,400,96);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2017-01-15',43500,6500,1500,20,9,3,43,26,59000,181,45);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2017-01-16',45000,5000,1500,20,6,3,49,46,0,159,42);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2017-01-16',17500,2500,1500,20,6,3,56,93,36000,491,114);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'c','2017-01-16',45000,5000,1500,20,6,3,8,0,0,136,36);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'d','2017-01-16',17500,2500,1500,20,6,3,23,228,0,519,132);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'e','2017-01-16',45000,5000,1500,20,6,3,137,4,409000,138,36);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2017-01-17',16500,3500,1500,20,9,3,10,335,0,790,162);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2017-01-17',45000,5000,1500,20,6,3,34,46,0,158,42);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'c','2017-01-17',45000,5000,1500,20,6,3,235,2,554000,134,36);
 quit

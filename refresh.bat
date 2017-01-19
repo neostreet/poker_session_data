@@ -10,7 +10,7 @@ mysql_grab delta6_summary
 mysql_grab avg_delta_by_flavor10
 call streak_it delta.out
 mysql_grab balance
-mysql_grab 2016_balance
+mysql_grab 2017_balance
 mysql_grab mtt_8game_counts2
 mysql_grab mtt_8game_places
 mysql_grab mtt_8game_detail
