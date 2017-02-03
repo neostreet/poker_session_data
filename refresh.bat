@@ -11,19 +11,7 @@ mysql_grab avg_delta_by_flavor10
 call streak_it delta.out
 mysql_grab balance
 mysql_grab 2017_balance
-mysql_grab mtt_8game_counts2
-mysql_grab mtt_8game_places
-mysql_grab mtt_8game_detail
-mysql_grab mtt_8game_balance
-mysql_grab sng_8game_counts2
-mysql_grab sng_8game_places
-mysql_grab sng_8game_detail
-mysql_grab sng_8game_balance
+mysql_grab mtt_nlhe_counts2
 mysql_grab mtt_nlhe_balance
 mysql_grab mtt_nlhe_massive_balance
-mysql_grab sng_nlhe_counts2
-mysql_grab sng_nlhe_places0
-mysql_grab sng_nlhe_detail0
-mysql_grab sng_nlhe_balance0
-mysql_grab sng_nlhe_balance
 mysql_grab cash_game_nlhe_balance
