@@ -47,4 +47,22 @@ values (
   'KO poker'
 );
 
+insert into poker_styles (
+  poker_style,
+  poker_style_descr
+)
+values (
+  5,
+  'Power up'
+);
+
+insert into poker_styles (
+  poker_style,
+  poker_style_descr
+)
+values (
+  6,
+  'MTT with rebuys'
+);
+
 quit

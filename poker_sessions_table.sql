@@ -14,6 +14,8 @@ create table poker_sessions (
   buy_in int null,
   bounty int null,
   entry_fee int null,
+  rebuys int null,
+  add_on int null,
   num_entries int null,
   places_paid int null,
   prize_pool int null,
@@ -27,7 +29,9 @@ create table poker_sessions (
   pots_won_at_showdown int null,
   pots_won_without_showdown int null,
   tournament_letter varchar(1) null,
-  sum_in_chips int null
+  sum_in_chips int null,
+  num_rebuys int null,
+  added_on int null
 );
 
 quit
