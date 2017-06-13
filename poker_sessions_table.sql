@@ -31,7 +31,9 @@ create table poker_sessions (
   tournament_letter varchar(1) null,
   sum_in_chips int null,
   num_rebuys int null,
-  added_on int null
+  added_on int null,
+  tournament_rebuys int null,
+  tournament_add_ons int null
 );
 
 quit

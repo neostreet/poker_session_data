@@ -65,4 +65,13 @@ values (
   'MTT with rebuys'
 );
 
+insert into poker_styles (
+  poker_style,
+  poker_style_descr
+)
+values (
+  7,
+  'MTT with bounties'
+);
+
 quit

@@ -1,14 +1,6 @@
 use poker
 
-select sum(delta)
-from poker_sessions
-where delta > 0;
-
-select sum(delta)
-from poker_sessions
-where delta < 0;
-
-select sum(delta)
+select sum(delta * (delta > 0)),sum(delta * (delta < 0)),sum(delta),count(*)
 from poker_sessions;
 
 quit

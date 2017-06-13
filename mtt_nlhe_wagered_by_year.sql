@@ -1,10 +1,10 @@
 use poker
 
-select sum(buy_in + entry_fee),sum(delta),count(*),left(poker_session_date,4)
+select sum(buy_in + ifnull(bounty,0) + entry_fee),sum(delta),count(*),sum(num_hands),left(poker_session_date,4)
 from poker_sessions
-where poker_style = 2 and poker_flavor = 3 and
-buy_in is not null and entry_fee is not null
-group by 4
-order by 4;
+where buy_in is not null and entry_fee is not null and
+poker_style = 2 and poker_flavor = 3
+group by 5
+order by 5;
 
 quit
