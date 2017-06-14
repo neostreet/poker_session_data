@@ -12,6 +12,6 @@ call streak_it delta.out
 mysql_grab balance
 mysql_grab 2017_balance
 mysql_grab mtt_nlhe_counts2
-mysql_grab mtt_nlhe_balance
+mysql_grab mttr_nlhe_balance
 mysql_grab mtt_nlhe_massive_balance
 mysql_grab cash_game_nlhe_balance
