@@ -15,3 +15,4 @@ mysql_grab mtt_nlhe_counts2
 mysql_grab mttr_nlhe_balance
 mysql_grab mtt_nlhe_massive_balance
 mysql_grab cash_game_nlhe_balance
+mysql_grab delta_by_year
