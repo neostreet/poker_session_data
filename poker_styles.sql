@@ -1,6 +1,6 @@
 use poker
 
-select poker_style,poker_style_descr
+select *
 from poker_styles
 order by poker_style;
 
