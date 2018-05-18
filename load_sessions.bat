@@ -1,6 +1,7 @@
 @echo off
 call tomysql < poker_sessions_table.sql
 call tomysql < poker_sessions_data.sql
+call tomysql < update_poker_style.sql
 rem call tomysql < update_ending_amount.sql
 call tomysql < update_big_blind_amount.sql
 call tomysql < update_rebuys_and_add_on.sql
