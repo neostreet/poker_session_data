@@ -1,6 +1,6 @@
 use poker
 
-select sum(winnings > 0) / count(*),sum(winnings > 0),count(*)
+select sum(winnings > 0) / count(*),sum(winnings > 0),count(*),sum(winnings = 0)
 from poker_sessions
 where poker_style = 6 and poker_flavor = 3;
 

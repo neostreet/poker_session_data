@@ -1,8 +1,8 @@
 use poker
 
-select distinct poker_session_date
+select concat(poker_session_date,tournament_letter)
 from poker_sessions
 where poker_style = 2 and poker_flavor = 9
-order by poker_session_date;
+order by id;
 
 quit

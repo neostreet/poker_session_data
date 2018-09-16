@@ -1,7 +1,7 @@
 use poker
 
-select (delta / (buy_in + ifnull(bounty,0) + entry_fee + ifnull(rebuys,0) + ifnull(add_on,0)) * 100) roi,
-delta,buy_in + ifnull(bounty,0) + entry_fee + ifnull(rebuys,0) + ifnull(add_on,0) wagered,
+select (delta / (buy_in + entry_fee + rebuys + add_on) * 100) roi,
+delta,buy_in + entry_fee + rebuys + add_on wagered,
 concat(poker_session_date,tournament_letter)
 from poker_sessions
 where poker_style = 6 and poker_flavor = 3
