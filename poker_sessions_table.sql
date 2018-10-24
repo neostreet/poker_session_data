@@ -5,7 +5,7 @@ drop table if exists poker_sessions;
 create table poker_sessions (
   id mediumint auto_increment primary key,
   poker_session_date date not null,
-  delta int not null,
+  delta int null,
   initial_stake int null,
   poker_style int null,
   poker_flavor int null,
