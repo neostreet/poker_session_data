@@ -10,7 +10,7 @@ mysql_grab delta6_summary
 mysql_grab avg_delta_by_flavor10
 call streak_it delta.out
 mysql_grab balance
-mysql_grab 2018_balance
+mysql_grab 2019_balance
 mysql_grab mtt_nlhe_counts2
 mysql_grab mttr_nlhe_balance
 mysql_grab mtt_nlhe_massive_balance
