@@ -123,4 +123,15 @@ values (
   'HORSE '
 );
 
+insert into poker_flavors (
+  poker_flavor,
+  poker_flavor_descr,
+  poker_flavor_abbrev
+)
+values (
+  11,
+  'Limit Badugi',
+  'Badugi'
+);
+
 quit
