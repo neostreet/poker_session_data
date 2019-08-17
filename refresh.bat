@@ -13,6 +13,10 @@ mysql_grab balance
 mysql_grab 2019_balance
 mysql_grab mtt_nlhe_counts2
 mysql_grab mttr_nlhe_balance
+mysql_grab mttb_nlhe_balance
+mysql_grab mtt_nlhe_balance
+mysql_grab mtt_8game_balance
+mysql_grab ko_nlhe_balance
 mysql_grab mtt_nlhe_massive_balance
 mysql_grab cash_game_nlhe_balance
 mysql_grab delta_by_year
