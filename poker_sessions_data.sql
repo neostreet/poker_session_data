@@ -22019,4 +22019,448 @@ insert into poker_sessions (
   poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_rebuys,added_on,tournament_rebuys,tournament_add_ons
 )
 values (6,'b','2019-09-27',43500,6500,3000,20,9,3,36,39,0,46,12,5,1,226,35);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2019-09-28',87000,13000,1500,20,6,3,45,0,0,80,21);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_rebuys,added_on,tournament_rebuys,tournament_add_ons
+)
+values (6,'b','2019-09-28',43500,6500,3000,20,9,3,58,18,0,45,9,3,1,181,31);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_rebuys,added_on,tournament_rebuys,tournament_add_ons
+)
+values (6,'a','2019-09-29',43500,6500,3000,20,9,3,52,19,0,56,12,1,1,185,31);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2019-09-29',45000,5000,1500,20,6,3,9,0,0,64,18);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'c','2019-09-29',174000,26000,1500,20,6,3,54,37,0,73,21);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2019-09-30',174000,26000,1500,20,6,3,11,0,0,47,12);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2019-09-30',45000,5000,1500,20,6,9,85,12,58000,52,12);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2019-10-01',174000,26000,1500,20,6,3,55,16,269000,62,18);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_rebuys,added_on,tournament_rebuys,tournament_add_ons
+)
+values (6,'b','2019-10-01',43500,6500,3000,20,9,3,111,5,704000,44,9,3,0,146,26);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2019-10-02',45000,5000,1500,20,6,3,53,44,0,85,21);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_rebuys,added_on,tournament_rebuys,tournament_add_ons
+)
+values (6,'b','2019-10-02',43500,6500,3000,20,9,3,99,15,0,48,12,1,1,197,32);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2019-10-03',45000,5000,1500,20,6,3,88,3,331000,81,21);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2019-10-03',87000,13000,1500,20,6,3,74,14,153000,59,15);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2019-10-04',174000,26000,1500,20,6,3,104,7,635000,73,21);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2019-10-04',45000,5000,1500,20,6,3,143,13,126000,117,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,bounty,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_bounties,bounties
+)
+values (7,'a','2019-10-05',67000,20000,13000,5000,20,9,3,60,40,77000,192,45,1,20000);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2019-10-05',45000,5000,1500,20,6,9,60,33,0,57,12);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2019-10-06',45000,5000,1500,20,6,3,35,51,0,89,21);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_rebuys,added_on,tournament_rebuys,tournament_add_ons
+)
+values (6,'b','2019-10-06',43500,6500,3000,20,9,3,19,53,0,61,15,3,0,301,45);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'c','2019-10-06',87000,13000,5000,20,6,3,33,17,0,63,12);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2019-10-07',87000,13000,5000,20,6,3,61,9,209000,74,18);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2019-10-07',174000,26000,1500,20,6,3,51,18,0,54,15);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2019-10-08',174000,26000,1500,20,6,3,25,29,0,83,21);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_rebuys,added_on,tournament_rebuys,tournament_add_ons
+)
+values (6,'b','2019-10-08',43500,6500,3000,20,9,3,43,25,0,44,9,1,1,171,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'c','2019-10-08',174000,26000,1500,20,6,3,67,21,0,70,18);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_rebuys,added_on,tournament_rebuys,tournament_add_ons
+)
+values (6,'a','2019-10-09',43500,6500,3000,20,9,3,27,35,0,69,15,1,1,287,54);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2019-10-09',174000,26000,1500,20,6,3,7,0,0,27,8);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'c','2019-10-09',45000,5000,1500,20,6,9,47,0,0,37,9);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_rebuys,added_on,tournament_rebuys,tournament_add_ons
+)
+values (6,'d','2019-10-09',43500,6500,3000,20,9,3,53,31,0,66,15,1,1,240,34);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2019-10-10',45000,5000,1500,20,6,3,83,17,103000,109,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_rebuys,added_on,tournament_rebuys,tournament_add_ons
+)
+values (6,'b','2019-10-10',43500,6500,3000,20,9,3,32,30,0,53,12,3,0,161,31);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,bounty,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_bounties,bounties
+)
+values (7,'a','2019-10-11',134000,40000,26000,5000,20,9,3,39,26,194000,171,36,1,40000);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_rebuys,added_on,tournament_rebuys,tournament_add_ons
+)
+values (6,'b','2019-10-11',43500,6500,3000,20,9,3,31,31,0,57,12,1,0,197,37);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2019-10-13',87000,13000,5000,20,6,3,146,4,502000,68,18);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_rebuys,added_on,tournament_rebuys,tournament_add_ons
+)
+values (6,'b','2019-10-13',43500,6500,3000,20,9,3,46,18,0,54,12,1,1,219,45);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2019-10-14',45000,5000,1500,20,6,3,12,0,0,53,15);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_rebuys,added_on,tournament_rebuys,tournament_add_ons
+)
+values (6,'b','2019-10-14',43500,6500,1500,20,9,3,33,51,0,63,15,1,1,293,40);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'c','2019-10-14',174000,26000,1500,20,6,3,12,0,0,13,5);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,bounty,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_bounties,bounties
+)
+values (7,'d','2019-10-14',67000,20000,13000,5000,20,9,3,24,0,0,126,27,0,0);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2019-10-15',87000,13000,5000,20,6,3,27,25,0,62,12);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_rebuys,added_on,tournament_rebuys,tournament_add_ons
+)
+values (6,'b','2019-10-15',43500,6500,3000,20,9,3,52,28,0,52,12,5,1,255,34);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'c','2019-10-15',174000,26000,1500,20,6,3,48,30,0,64,18);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_rebuys,added_on,tournament_rebuys,tournament_add_ons
+)
+values (6,'d','2019-10-15',43500,6500,3000,20,9,3,60,13,0,44,9,1,1,189,26);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2019-10-16',174000,26000,1500,20,6,3,35,31,0,91,24);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,bounty,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_bounties,bounties
+)
+values (7,'b','2019-10-16',134000,40000,26000,5000,20,9,3,30,92,0,212,45,0,0);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'c','2019-10-16',174000,26000,1500,20,6,3,43,32,0,72,18);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,bounty,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_bounties,bounties
+)
+values (7,'d','2019-10-16',67000,20000,13000,5000,20,9,3,32,0,0,190,45,0,0);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'e','2019-10-16',174000,26000,1500,20,6,3,40,23,0,53,15);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2019-10-17',174000,26000,1500,20,6,3,18,22,0,63,18);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_rebuys,added_on,tournament_rebuys,tournament_add_ons
+)
+values (6,'b','2019-10-17',43500,6500,3000,20,9,3,53,16,0,44,9,3,0,101,26);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,bounty,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_bounties,bounties
+)
+values (7,'c','2019-10-17',67000,20000,13000,5000,20,9,3,24,61,0,190,45,0,0);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,bounty,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_bounties,bounties
+)
+values (7,'a','2019-10-18',67000,20000,13000,5000,20,9,3,64,40,87000,237,54,2,40000);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_rebuys,added_on,tournament_rebuys,tournament_add_ons
+)
+values (6,'b','2019-10-18',43500,6500,3000,20,9,3,39,27,0,57,12,3,0,206,36);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_rebuys,added_on,tournament_rebuys,tournament_add_ons
+)
+values (6,'c','2019-10-18',43500,6500,1500,20,9,3,59,19,0,58,12,1,0,171,34);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'d','2019-10-18',45000,5000,1500,20,6,3,9,0,0,64,18);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2019-10-19',45000,5000,1500,20,6,3,67,31,0,126,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_rebuys,added_on,tournament_rebuys,tournament_add_ons
+)
+values (6,'b','2019-10-19',43500,6500,3000,20,9,3,71,12,375000,59,12,1,1,244,42);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2019-10-20',174000,26000,1500,20,6,3,38,38,0,81,21);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,bounty,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_bounties,bounties
+)
+values (7,'b','2019-10-20',22000,22000,6000,1500,20,9,3,23,47,0,168,37,0,0);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2019-10-21',174000,26000,1500,20,6,3,13,0,0,40,10);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2019-10-21',45000,5000,1500,20,6,9,61,23,0,52,12);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_rebuys,added_on,tournament_rebuys,tournament_add_ons
+)
+values (6,'a','2019-10-22',43500,6500,3000,20,9,3,33,17,0,52,12,1,1,134,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,bounty,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_bounties,bounties
+)
+values (7,'b','2019-10-22',67000,20000,13000,5000,20,9,3,17,52,0,179,36,0,0);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'c','2019-10-22',174000,26000,1500,20,6,3,194,2,1564000,81,21);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2019-10-23',174000,26000,1500,20,6,3,66,30,0,74,21);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_rebuys,added_on,tournament_rebuys,tournament_add_ons
+)
+values (6,'b','2019-10-23',43500,6500,3000,20,9,3,30,33,0,61,15,1,0,282,35);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_rebuys,added_on,tournament_rebuys,tournament_add_ons
+)
+values (6,'c','2019-10-23',43500,6500,3000,20,9,3,68,15,0,55,12,1,0,163,32);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,bounty,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_bounties,bounties
+)
+values (7,'a','2019-10-24',134000,40000,26000,5000,20,9,3,99,21,156000,137,36,0,0);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2019-10-24',45000,5000,1500,20,6,3,138,8,137000,68,18);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,bounty,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_bounties,bounties
+)
+values (7,'a','2019-10-25',67000,20000,13000,5000,20,9,3,24,109,0,255,54,0,0);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2019-10-25',45000,5000,1500,20,6,3,152,7,221000,117,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'c','2019-10-25',174000,26000,1500,20,6,3,5,0,0,42,10);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'d','2019-10-25',45000,5000,1500,20,6,9,38,29,0,43,9);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2019-10-26',174000,26000,1500,20,6,3,56,18,278000,64,18);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2019-10-26',45000,5000,1500,20,6,3,95,27,74000,111,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2019-10-27',174000,26000,1500,20,6,3,109,18,352000,81,21);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2019-10-27',45000,5000,1500,20,6,9,36,0,0,22,4);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2019-10-28',45000,5000,1500,20,6,3,101,9,141000,105,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2019-10-28',87000,13000,5000,20,6,3,34,51,0,92,18);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2019-10-29',45000,5000,1500,20,6,3,6,48,0,102,24);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2019-10-29',87000,13000,5000,20,6,3,16,0,0,83,18);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'c','2019-10-29',45000,5000,1500,20,6,9,65,22,0,50,9);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'d','2019-10-29',45000,5000,1500,20,6,3,114,17,101000,98,24);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2019-10-30',45000,5000,1500,20,6,3,118,5,275000,90,21);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2019-10-30',45000,5000,1500,20,6,9,45,17,0,33,6);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,bounty,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_bounties,bounties
+)
+values (7,'a','2019-10-31',67000,20000,13000,5000,20,9,3,54,48,0,220,45,0,0);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2019-10-31',45000,5000,1500,20,6,9,57,20,0,49,9);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2019-11-01',45000,5000,1500,20,6,3,33,35,0,124,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2019-11-01',87000,13000,1500,20,6,3,82,12,217000,78,21);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2019-11-02',174000,26000,1500,20,6,3,57,24,0,77,21);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2019-11-02',45000,5000,1500,20,6,3,110,12,130000,107,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2019-11-03',174000,26000,1500,20,6,3,43,63,0,134,36);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2019-11-03',45000,5000,1500,20,6,3,24,0,0,40,10);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'c','2019-11-03',174000,26000,1500,20,6,3,99,17,308000,71,18);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2019-11-04',45000,5000,1500,20,6,3,87,26,0,81,21);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2019-11-04',45000,5000,1500,20,6,9,96,14,0,49,9);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2019-11-05',45000,5000,1500,20,6,3,113,12,111000,71,18);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2019-11-05',45000,5000,1500,20,6,3,62,20,0,38,10);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2019-11-06',45000,5000,1500,20,6,9,11,29,0,49,9);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2019-11-06',45000,5000,1500,20,6,3,73,25,0,86,21);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2019-11-07',174000,26000,1500,20,6,3,48,22,0,77,21);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2019-11-08',87000,13000,1500,20,6,3,30,22,0,68,18);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2019-11-09',87000,13000,5000,20,6,3,62,19,0,80,18);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'b','2019-11-09',45000,5000,1500,20,6,9,50,0,0,43,9);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_rebuys,added_on,tournament_rebuys,tournament_add_ons
+)
+values (6,'a','2019-11-10',43500,6500,3000,20,9,3,101,17,0,52,12,1,0,171,29);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2019-11-11',45000,5000,1500,20,6,3,204,2,579000,140,36);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_rebuys,added_on,tournament_rebuys,tournament_add_ons
+)
+values (6,'b','2019-11-11',43500,6500,3000,20,9,3,63,13,291000,64,15,1,0,215,40);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_rebuys,added_on,tournament_rebuys,tournament_add_ons
+)
+values (6,'a','2019-11-12',43500,6500,3000,20,9,3,12,34,0,46,12,2,0,163,29);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2019-11-13',174000,26000,1500,20,6,3,25,20,0,59,15);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid
+)
+values (2,'a','2019-11-14',45000,5000,1500,20,6,3,56,47,0,100,24);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,num_hands,place,winnings,num_entries,places_paid,num_rebuys,added_on,tournament_rebuys,tournament_add_ons
+)
+values (6,'b','2019-11-14',43500,6500,3000,20,9,3,79,14,0,39,8,1,0,93,23);
 quit

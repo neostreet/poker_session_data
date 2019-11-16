@@ -1,7 +1,7 @@
 use poker
 
-select sum(winnings),count(*)
+select sum(winnings + ifnull(bounties,0)),count(*)
 from poker_sessions
-where winnings > 0;
+where winnings > 0 or bounties > 0;
 
 quit
