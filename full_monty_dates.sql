@@ -1,6 +1,6 @@
 use poker
 
-select poker_session_date,delta
+select delta,poker_session_date
 from poker_sessions_summary
 where delta >= 1000000
 order by poker_session_date desc;
