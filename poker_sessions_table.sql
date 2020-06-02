@@ -34,7 +34,8 @@ create table poker_sessions (
   added_on int null,
   tournament_rebuys int null,
   tournament_add_ons int null,
-  tournament_total_chips int null
+  tournament_total_chips int null,
+  min_cash int null
 );
 
 quit

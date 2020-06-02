@@ -134,4 +134,15 @@ values (
   'Badugi'
 );
 
+insert into poker_flavors (
+  poker_flavor,
+  poker_flavor_descr,
+  poker_flavor_abbrev
+)
+values (
+  12,
+  'No Limit 6+ Hold''em',
+  'NL6+HE'
+);
+
 quit

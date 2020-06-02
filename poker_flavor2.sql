@@ -1,8 +1,9 @@
 use poker;
 
-select poker_flavor,min(poker_session_date),max(poker_session_date),count(*)
-from poker_sessions
-group by poker_flavor
-order by poker_flavor;
+select sum(s.delta),count(*),sum(s.delta) / count(*),st.poker_flavor_descr
+from poker_sessions s,poker_flavors st
+where s.poker_flavor = st.poker_flavor
+group by s.poker_flavor
+order by s.poker_flavor;
 
 quit

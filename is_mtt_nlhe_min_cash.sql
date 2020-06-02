@@ -1,0 +1,3 @@
+use poker
+
+select min
