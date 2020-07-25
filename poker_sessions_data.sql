@@ -23507,4 +23507,220 @@ insert into poker_sessions (
   poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
 )
 values (2,'a','2020-05-31',174000,26000,1500,20,6,3,10,516000,99,24);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-06-01',174000,26000,1500,20,6,3,62,0,113,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-06-02',174000,26000,1500,20,6,3,2,1701000,94,24);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-06-03',174000,26000,1500,20,6,3,64,0,114,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-06-04',174000,26000,1500,20,6,3,8,633000,104,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-06-05',174000,26000,1500,20,6,3,29,284000,109,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-06-06',174000,26000,1500,20,6,3,3,1479000,100,24);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-06-07',174000,26000,1500,20,6,3,11,462000,83,21);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-06-08',174000,26000,1500,20,6,3,39,0,100,24);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-06-09',174000,26000,1500,20,6,3,7,784000,92,24);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-06-10',174000,26000,1500,20,6,3,4,1244000,98,24);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-06-11',174000,26000,1500,20,6,3,28,0,85,21);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-06-12',174000,26000,1500,20,6,3,62,0,134,36);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-06-13',174000,26000,1500,20,6,3,67,0,113,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-06-14',174000,26000,1500,20,6,3,14,438000,90,21);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,bounty,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid,num_bounties,bounties
+)
+values (7,'a','2020-06-15',134000,40000,26000,5000,20,9,3,0,0,162,36,0,0);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-06-16',174000,26000,1500,20,6,3,8,745000,102,24);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-06-17',174000,26000,1500,20,6,3,21,330000,95,24);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-06-18',174000,26000,1500,20,6,3,40,0,106,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-06-19',174000,26000,1500,20,6,3,30,323000,124,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-06-20',174000,26000,1500,20,6,3,14,452000,100,24);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-06-21',174000,26000,1500,20,6,3,21,317000,83,21);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-06-22',174000,26000,1500,20,6,3,4,1031000,76,21);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-06-23',174000,26000,1500,20,6,3,20,330000,95,24);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-06-24',174000,26000,1500,20,6,3,40,0,101,24);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-06-25',174000,26000,1500,20,6,3,72,0,114,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-06-26',87000,13000,1500,20,6,3,15,208000,92,24);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-06-27',174000,26000,1500,20,6,3,26,0,91,24);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-06-28',174000,26000,1500,20,6,3,15,429000,95,24);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-06-29',174000,26000,1500,20,6,3,6,932000,94,24);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-06-30',174000,26000,1500,20,6,3,11,406000,73,21);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-07-01',174000,26000,1500,20,6,3,5,1040000,92,24);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-07-02',174000,26000,1500,20,6,3,10,488000,104,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-07-03',174000,26000,1500,20,6,3,36,0,100,24);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-07-04',174000,26000,1500,20,6,3,37,0,89,21);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-07-05',174000,26000,1500,20,6,3,0,0,68,18);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-07-06',174000,26000,1500,20,6,3,32,0,104,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-07-07',174000,26000,1500,20,6,3,52,0,115,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-07-08',174000,26000,1500,20,6,3,41,0,96,24);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-07-09',174000,26000,1500,20,6,3,0,0,79,21);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-07-10',174000,26000,1500,20,6,3,20,320000,92,24);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-07-11',174000,26000,1500,20,6,3,41,0,102,24);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-07-12',174000,26000,1500,20,6,3,15,360000,74,21);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-07-13',174000,26000,1500,20,6,3,4,1023000,70,18);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-07-14',174000,26000,1500,20,6,3,4,1099000,81,21);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-07-15',174000,26000,1500,20,6,3,40,0,80,21);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-07-16',174000,26000,1500,20,6,3,10,473000,85,21);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-07-17',174000,26000,1500,20,6,3,35,0,114,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-07-18',174000,26000,1500,20,6,3,70,0,115,30);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-07-19',174000,26000,1500,20,6,3,24,0,85,21);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-07-20',174000,26000,1500,20,6,3,13,429000,95,24);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-07-21',174000,26000,1500,20,6,3,27,0,97,24);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-07-22',9000,1000,1500,20,6,3,231,0,445,114);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-07-23',174000,26000,1500,20,6,3,16,364000,91,24);
+insert into poker_sessions (
+  poker_style,tournament_letter,poker_session_date,buy_in,entry_fee,initial_stake,big_blind_amount,num_players,poker_flavor,place,winnings,num_entries,places_paid
+)
+values (2,'a','2020-07-24',174000,26000,1500,20,6,3,15,423000,87,21);
 quit
